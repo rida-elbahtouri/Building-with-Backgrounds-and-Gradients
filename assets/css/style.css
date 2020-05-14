@@ -72,3 +72,25 @@ nav {
 .item1 {
   margin-left: 0;
 }
+footer {
+  margin: 30px 30px 30px 30px;
+}
+footer a {
+  color: rgb(0, 136, 204);
+  font-size: 12px;
+}
+.store-add {
+  display: inline;
+}
+.list-links {
+  float: right;
+}
+.list-links li {
+  display: inline-block;
+  border-right: 1px solid gray;
+  padding-right: 2px;
+}
+.list-links li:last-child {
+  border: none;
+  vertical-align: middle;
+}
