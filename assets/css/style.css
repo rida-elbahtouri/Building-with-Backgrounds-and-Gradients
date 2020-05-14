@@ -1,0 +1,21 @@
+@import "reset.css";
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+nav {
+  background-color: gray;
+  position: absolute;
+  vertical-align: middle;
+  width: 940px;
+  margin: 0 auto;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 8px 3px 8px 3px;
+  border-radius: 5px;
+  z-index: 2;
+}
