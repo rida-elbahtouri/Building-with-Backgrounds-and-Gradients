@@ -6,3 +6,5 @@ linters:
 files:
   ignore:
     - "assets/css/reset.css"
+fixers:
+  enable: true #This is the magic part of out fixing your errors
