@@ -6,10 +6,11 @@ PROJECT: Building with Backgrounds and Gradients
 
 - HTML5
 - CSS3
+  ![alt text](https://github.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/tree/features-branch/assets/img/Screenshot.png "screenshot")
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://rawcdn.githack.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/b48bbf9d4b6995ba06d07c27e079e1f03a5badb4/index.html)
 
 # Getting Started 🚀
 
