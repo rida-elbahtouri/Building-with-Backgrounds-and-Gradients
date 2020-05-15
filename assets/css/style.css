@@ -94,111 +94,13 @@ nav {
 
 .nav-element {
   padding: 8px 30px 8px 30px;
-  border-right: 1px solid gray;
+  border-right: 1px solid rgb(110, 110, 110);
   vertical-align: middle;
   text-align: center;
   margin-left: -4px;
 }
 .nav-element:hover {
-  background: rgba(102, 102, 102, 1);
-  background: -moz-linear-gradient(
-    top,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(8, 8, 8, 1) 0%,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(89, 89, 89, 1) 0%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(0, 0, 0, 1) 29%,
-    rgba(89, 89, 89, 1) 50%,
-    rgba(17, 17, 17, 1) 60%,
-    rgba(13, 13, 13, 1) 76%,
-    rgba(3, 3, 3, 1) 91%,
-    rgba(19, 19, 19, 1) 100%
-  );
-  background: -webkit-gradient(
-    left top,
-    left bottom,
-    color-stop(0%, rgba(102, 102, 102, 1)),
-    color-stop(0%, rgba(102, 102, 102, 1)),
-    color-stop(0%, rgba(8, 8, 8, 1)),
-    color-stop(0%, rgba(0, 0, 0, 1)),
-    color-stop(0%, rgba(89, 89, 89, 1)),
-    color-stop(1%, rgba(71, 71, 71, 1)),
-    color-stop(1%, rgba(71, 71, 71, 1)),
-    color-stop(29%, rgba(0, 0, 0, 1)),
-    color-stop(50%, rgba(89, 89, 89, 1)),
-    color-stop(60%, rgba(17, 17, 17, 1)),
-    color-stop(76%, rgba(13, 13, 13, 1)),
-    color-stop(91%, rgba(3, 3, 3, 1)),
-    color-stop(100%, rgba(19, 19, 19, 1))
-  );
-  background: -webkit-linear-gradient(
-    top,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(8, 8, 8, 1) 0%,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(89, 89, 89, 1) 0%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(0, 0, 0, 1) 29%,
-    rgba(89, 89, 89, 1) 50%,
-    rgba(17, 17, 17, 1) 60%,
-    rgba(13, 13, 13, 1) 76%,
-    rgba(3, 3, 3, 1) 91%,
-    rgba(19, 19, 19, 1) 100%
-  );
-  background: -o-linear-gradient(
-    top,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(8, 8, 8, 1) 0%,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(89, 89, 89, 1) 0%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(0, 0, 0, 1) 29%,
-    rgba(89, 89, 89, 1) 50%,
-    rgba(17, 17, 17, 1) 60%,
-    rgba(13, 13, 13, 1) 76%,
-    rgba(3, 3, 3, 1) 91%,
-    rgba(19, 19, 19, 1) 100%
-  );
-  background: -ms-linear-gradient(
-    top,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(8, 8, 8, 1) 0%,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(89, 89, 89, 1) 0%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(0, 0, 0, 1) 29%,
-    rgba(89, 89, 89, 1) 50%,
-    rgba(17, 17, 17, 1) 60%,
-    rgba(13, 13, 13, 1) 76%,
-    rgba(3, 3, 3, 1) 91%,
-    rgba(19, 19, 19, 1) 100%
-  );
-  background: linear-gradient(
-    to bottom,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(102, 102, 102, 1) 0%,
-    rgba(8, 8, 8, 1) 0%,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(89, 89, 89, 1) 0%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(71, 71, 71, 1) 1%,
-    rgba(0, 0, 0, 1) 29%,
-    rgba(89, 89, 89, 1) 50%,
-    rgba(17, 17, 17, 1) 60%,
-    rgba(13, 13, 13, 1) 76%,
-    rgba(3, 3, 3, 1) 91%,
-    rgba(19, 19, 19, 1) 100%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#131313', GradientType=0 );
+  background-color: rgb(0, 0, 0, 0.3);
 }
 .frst {
   border-left: 1px solid gray;
@@ -250,7 +152,9 @@ nav {
   font-size: 24px;
   padding-top: 30px;
 }
-
+.link-film:hover {
+  text-decoration: underline;
+}
 .item {
   margin-left: 5px;
 }
