@@ -4,7 +4,7 @@ PROJECT: Building with Backgrounds and Gradients
 
 ##screanshoot of the website
 
-![screanshoot](https://github.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/tree/features-branch/assets/img/Screenshot.png)
+![alt text](https://github.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/blob/features-branch/assets/img/Screenshot.png "screenshot")
 
 ## Built With
 
