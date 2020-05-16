@@ -12,7 +12,7 @@ PROJECT: Building with Backgrounds and Gradients
  
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/b48bbf9d4b6995ba06d07c27e079e1f03a5badb4/index.html)
+[Live Demo Link](https://rawcdn.githack.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/ca0ed7747820fa7b9e5c69d9e81555106283e2d6/index.html)
 
 # Getting Started 🚀
 
