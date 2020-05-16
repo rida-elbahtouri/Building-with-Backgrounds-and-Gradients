@@ -5,11 +5,12 @@ PROJECT: Building with Backgrounds and Gradients
 ##screanshoot of the website
 
 ![screanshoot](https://github.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/tree/features-branch/assets/img/Screenshot.png)
+
 ## Built With
 
 - HTML5
 - CSS3
- 
+
 ## Live Demo
 
 [Live Demo Link](https://rawcdn.githack.com/rida-elbahtouri/Building-with-Backgrounds-and-Gradients/ca0ed7747820fa7b9e5c69d9e81555106283e2d6/index.html)
