@@ -1,0 +1,10 @@
+# add the linters you want stickler to use for this project
+linters:
+  stylelint:
+    # indicate where is the config file for stylelint
+    config: "stylelint.config.js"
+files:
+  ignore:
+    - "assets/css/reset.css"
+fixers:
+  enable: true #This is the magic part of out fixing your errors
